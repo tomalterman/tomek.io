@@ -1,2 +1,0 @@
-# tomek.io
-Tomekio website
